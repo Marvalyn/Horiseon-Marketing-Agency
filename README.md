@@ -4,38 +4,21 @@
 
 This project is a fully functional webpage for the Horiseon marketing agency. This webpage is optimised for desktop, laptop, tablets and mobile phones.
 
-This project was focused on accessibility to improve seo. The code for this webpage closely follows accessibility standards by using alt attributes for all img elements, using the viewport attribute to ensure the webpage is properly displayed on a variety of devices and the codebase has been condensed and optimised.
-
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+This project is focused on accessibility to improve SEO. The code for this webpage closely follows accessibility standards by using alt attributes for all img elements, using the viewport attribute to ensure the webpage is properly displayed on a variety of devices and the codebase has been condensed and optimised.
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The webpage can be accessed using any web browser however, using Google Chrome is recommended.
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+This webpage can be accessed at https://marvalyn.github.io/Challenge-Week1/ the homescreen looks as follows [Horiseon](Challenge/Assets/images/Horiseon.png)
 
 ## Credits
 
-Thanks to 
+Thanks to Dan Mueller for being an excellent instructor and thanks to the TA's for their guidance.
 
 
 ## License
