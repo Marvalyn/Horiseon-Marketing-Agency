@@ -1,4 +1,4 @@
-# Challenge-Week1 - Horiseon
+# Challenge-Week1- Horiseon
 
 ## Description 
 
@@ -24,6 +24,3 @@ Thanks to Dan Mueller for being an excellent instructor and thanks to the TA's f
 ## License
 
 This project is currently unlicensed.
-
-
----
