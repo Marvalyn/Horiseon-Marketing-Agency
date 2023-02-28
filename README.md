@@ -14,7 +14,7 @@ The webpage can be accessed using any web browser however, using Google Chrome i
 
 ## Usage 
 
-This webpage can be accessed at https://marvalyn.github.io/Challenge-Week1/ the homescreen looks as follows [Horiseon](Challenge/starter/assets/images/01-html-css-git-challenge-demo.png)
+This webpage can be accessed at https://marvalyn.github.io/Challenge-Week1/ the homescreen looks as follows [!Horiseon](./assets/images/Horiseon%20Screenshot.png).
 
 ## Credits
 
