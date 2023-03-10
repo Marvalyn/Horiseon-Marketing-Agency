@@ -68,6 +68,12 @@ p .left{
 
 /*FLOAT CLASS*/
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float {
     float: left;
     margin-right: 25px;
@@ -77,11 +83,7 @@ p .left{
     float: right;
     margin-left: 25px;
 }
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 /* OPTIMISATION CLASS */
 .optimization {
@@ -140,6 +142,6 @@ p .left{
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
