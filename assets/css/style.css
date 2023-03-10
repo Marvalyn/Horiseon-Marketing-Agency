@@ -51,6 +51,10 @@ p {
     font-size: 16px;
 }
 
+p .left{
+    float: left;
+}
+
 /*HERO CLASS*/
 
 .hero {
@@ -69,6 +73,10 @@ p {
     margin-right: 25px;
 }
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 .content {
     width: 75%;
     display: inline-block;
